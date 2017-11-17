@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1431997472 source:f:\134404-09-12\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+
+1432025912 source:d:\c++ project\134404-09-12\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+
+1432234783 source:c:\users\shofol\desktop\134404-09-12\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+
+1508962432 source:e:\cse study arena\project\iemail-master\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+

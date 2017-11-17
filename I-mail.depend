@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1508962432 source:e:\cse study arena\project\i-mail\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+
